@@ -1,6 +1,7 @@
+https://kuhehe2.netlify.app/links/index.html
+https://kuhehe2.netlify.app/guestbook/index.html
 https://kuhehe2.netlify.app/2022/12/14/01/
 https://kuhehe2.netlify.app/2022/12/13/hello-world/
-https://kuhehe2.netlify.app/links/index.html
 https://kuhehe2.netlify.app/about/index.html
 https://kuhehe2.netlify.app/categories/index.html
 https://kuhehe2.netlify.app/tags/index.html
