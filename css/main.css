@@ -1,18 +1,18 @@
 :root {
   --body-bg-color: #e0eee0;
   --content-bg-color: #cdcdb4;
-  --card-bg-color: $CARD;
+  --card-bg-color: #f5f5f5;
   --text-color: #141414;
   --blockquote-color: #666;
   --link-color: #2e8b57;
   --link-hover-color: #ee5c42;
   --brand-color: #222;
-  --brand-hover-color: #222;
+  --brand-hover-color: #98fb98;
   --table-row-odd-bg-color: #ebebeb;
   --table-row-hover-bg-color: #f8f8ff;
   --menu-item-bg-color: rgba(248,105,129,0.4);
   --theme-color: #222;
-  --btn-default-bg: transparent;
+  --btn-default-bg: #9b30ff;
   --btn-default-color: var(--link-color);
   --btn-default-border-color: var(--link-color);
   --btn-default-hover-bg: transparent;
@@ -2548,7 +2548,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #30ffff;
+  background: #008f04;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2597,14 +2597,4 @@ hr {
 }
 .sub-menu .menu-item {
   display: inline-block;
-}
-body {
-  background: $0;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: 50% 50%;
-  color: var(--text-color);
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 1em;
-  line-height: 2;
 }
